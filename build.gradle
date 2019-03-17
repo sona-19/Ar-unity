@@ -42,7 +42,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 28
         applicationId 'com.whack1.ProductName'
-
+ 
         versionCode 1
         versionName '0.1'
     }
