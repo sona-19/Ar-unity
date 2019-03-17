@@ -33,6 +33,7 @@ public class UnityPlayerActivity extends Activity
         // the last sent intent. The clients access this through a JNI api that allows them
         // to get the intent set on launch. To update that after launch we have to manually
         // replace the intent with the one caught here.
+        
         setIntent(intent);
     }
  
