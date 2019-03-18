@@ -1,2 +1,3 @@
-### Travel-yaAr
-# Application built on Unity
+# Travel-yaAr
+### Application built on Unity
+### Augmented Reality app.
